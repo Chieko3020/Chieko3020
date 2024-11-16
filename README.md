@@ -1,5 +1,5 @@
- 2026年 福建农林大学计科毕业
- C++后端开发学习中
+2026年 福建农林大学计科毕业  
+C++后端开发学习中
 
 <!--
 **Chieko3020/Chieko3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
