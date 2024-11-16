@@ -1,7 +1,14 @@
 - 🔭 2026年 福建农林大学计科毕业  
 - 🌱 C++后端开发学习中
 - 📫 rintsuki@qq.com
+<p align="center">
+<a href="https://github.com/Chieko3020"><img src="https://img.shields.io/badge/GitHub-Chieko3020-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/165313953"><img src="https://img.shields.io/badge/Chieko3020-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-2073888982-green?logo=tencentqq" />
+</p>
 - https://github.com/Chieko3020/Chieko3020/blob/main/IMG_2624.JPG
+
+
 <!--
 **Chieko3020/Chieko3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
