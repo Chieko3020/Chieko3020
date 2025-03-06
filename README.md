@@ -1,5 +1,5 @@
 - 🔭 2026年 福建农林大学计科毕业  
-- 🌱 C++后端开发/Qt GUI 学习中
+- 🌱 Linux C++后端开发学习中
 - ✉️ rintsuki@qq.com
 <p>
 <a href="https://github.com/Chieko3020"><img src="https://img.shields.io/badge/GitHub-Chieko3020-blue?logo=github" /></a>
