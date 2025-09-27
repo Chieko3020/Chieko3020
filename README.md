@@ -6,9 +6,9 @@
   <a href="https://space.bilibili.com/165313953"><img src="https://img.shields.io/badge/Chieko3020-pink?logo=bilibili" /></a>
   <img src="https://img.shields.io/badge/QQ-2073888982-green?logo=tencentqq" />
 </p>
-![Chieko3020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chieko3020&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chieko3020&layout=compact&theme=tokyonight)
 <p> 📷︎ (>_<) 
   <a href="https://github.com/Chieko3020/Chieko3020/blob/main/IMG_3097.JPG"><img src="https://img.shields.io/badge/%E3%81%8A%E3%81%A8%E3%81%93%E3%81%AE%E3%81%93-ProfileRepo_Image-pink"/</a>
 </p>
 
+![Chieko3020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chieko3020&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chieko3020&layout=compact&theme=tokyonight)
