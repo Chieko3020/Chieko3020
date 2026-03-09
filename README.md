@@ -22,23 +22,21 @@
 - 计算机科学与技术专业
 - 垃圾邮件投递者
 - 人才库常驻成员
-- 樱小路露娜的狗
+- ~~樱小路露娜的狗~~
 - 个人网站：[Chieko3020|Nostalgia](https://chieko3020.cn)
 <img src="https://raw.githubusercontent.com/Chieko3020/Chieko3020/main/website_preview.png" alt="Chieko3020.cn preview" style="width:720px;max-width:100%;height:auto;border:1px solid #e6e6e6;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.08);" />
 
 ---
 
-<div align="center">
-	<!-- 贡献图（稳定版） -->
+<!-- <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chieko3020&theme=white&hide_border=true&area=true" alt="contrib graph" style="margin:6px;"/>
 	<br/>
-	<!-- GitHub 统计卡片（带缓存） -->
 	<img src="https://github-readme-stats.vercel.app/api?username=Chieko3020&show_icons=true&theme=white&count_private=true&hide_border=true&cache_seconds=1800" alt="github stats" style="margin:6px;"/>
-	<!-- 顶级语言卡片（优化版） -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieko3020&layout=compact&theme=white&hide_border=true&langs_count=6" alt="top languages" style="margin:6px;"/>
-</div>
+</div> -->
 
 <div align="center">
+	<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="36" style="margin:6px;"/>
 	<img src="https://img.shields.io/badge/-C-178600?style=flat-square&logo=c&logoColor=white" alt="C" height="36" style="margin:6px;"/>
 	<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="36" style="margin:6px;"/>
 	<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="36" style="margin:6px;"/>
