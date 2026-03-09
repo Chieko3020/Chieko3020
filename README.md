@@ -23,7 +23,13 @@
 - 垃圾邮件投递者
 - 人才库常驻成员
 - ~~樱小路露娜的狗~~
-- 个人网站：[Chieko3020|Nostalgia](https://chieko3020.cn)
+
+<a href="https://space.bilibili.com/165313953"><img src="https://img.shields.io/badge/Bilibili-Chieko3020-66B2FF?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
+<a href="https://chieko3020.cn"><img src="https://img.shields.io/badge/Website-Chieko3020%7CNostalgia-FB7299?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/Chieko3020/Chieko3020/blob/main/" target="_blank">
+  <img src="https://img.shields.io/badge/Repository%20Images-%E3%81%8A%E3%81%A8%E3%81%93%E3%81%AE%E3%81%93%EF%BC%88%E7%AC%91-32C6BD?style=for-the-badge&logo=github&logoColor=white" alt="Chieko3020 GitHub"/>
+</a>
+
 <img src="https://raw.githubusercontent.com/Chieko3020/Chieko3020/main/website_preview.png" alt="Chieko3020.cn preview" style="width:720px;max-width:100%;height:auto;border:1px solid #e6e6e6;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.08);" />
 
 ---
@@ -56,3 +62,8 @@
 	<img src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis" height="36" style="margin:6px;"/>
 </div>
 
+<div align="center">
+	
+</div>
+
+---
