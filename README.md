@@ -29,10 +29,13 @@
 ---
 
 <div align="center">
-	<img src="https://contrib.rocks/image?user=Chieko3020" alt="contrib graph" style="margin:6px;" />
+	<!-- 贡献图（稳定版） -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chieko3020&theme=white&hide_border=true&area=true" alt="contrib graph" style="margin:6px;"/>
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Chieko3020&show_icons=true&theme=white&count_private=true&hide_border=true" alt="github stats" style="margin:6px;" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieko3020&layout=compact&theme=white&hide_border=true" alt="top languages" style="margin:6px;" />
+	<!-- GitHub 统计卡片（带缓存） -->
+	<img src="https://github-readme-stats.vercel.app/api?username=Chieko3020&show_icons=true&theme=white&count_private=true&hide_border=true&cache_seconds=1800" alt="github stats" style="margin:6px;"/>
+	<!-- 顶级语言卡片（优化版） -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieko3020&layout=compact&theme=white&hide_border=true&langs_count=6" alt="top languages" style="margin:6px;"/>
 </div>
 
 <div align="center">
