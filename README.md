@@ -26,7 +26,7 @@
 
 <a href="https://space.bilibili.com/165313953"><img src="https://img.shields.io/badge/Bilibili-Chieko3020-66B2FF?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
 <a href="https://chieko3020.cn"><img src="https://img.shields.io/badge/Website-Chieko3020%7CNostalgia-FB7299?style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/Chieko3020/Chieko3020/blob/main/" target="_blank">
+<a href="https://github.com/Chieko3020/Chieko3020/tree/main/Images" target="_blank">
   <img src="https://img.shields.io/badge/Repository%20Images-%E3%81%8A%E3%81%A8%E3%81%93%E3%81%AE%E3%81%93%EF%BC%88%E7%AC%91-32C6BD?style=for-the-badge&logo=github&logoColor=white" alt="Chieko3020 GitHub"/>
 </a>
 
